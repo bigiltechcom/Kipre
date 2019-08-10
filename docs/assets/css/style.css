@@ -3771,6 +3771,10 @@ p.checkout-coupon input[type="submit"] {
 }
 
 
+.footer-image {
+    border-radius: 2px;
+    max-width: 250px;
+}
 
 
 
